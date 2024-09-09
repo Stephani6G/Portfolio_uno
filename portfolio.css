@@ -1,0 +1,47 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.5;
+    color: #333;
+}
+#image-section
+{
+    background-image: url(flower-2295441_1920.jpg);
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 50vw;
+    height: 40vh;
+    background-repeat: no-repeat;
+}
+#image-section p
+{
+    color: blue;
+    font-weight: bold;
+    font-size: 1.1em;
+}
+#image-section h1
+{
+    display: flex;
+    align-items: center;
+}
+section
+{
+    color: black;
+    font-weight: bold;
+    font-size: 1.3em;
+    line-height: 2;
+    position: relative;
+}
+section .section-area
+{
+    position: absolute;
+    right: 0;
+    top: 0;
+}
