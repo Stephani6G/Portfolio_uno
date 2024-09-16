@@ -6,7 +6,12 @@ This is my portfolio.
 
 
 It features two of my favourite things; flowers and complete projects. :) 
-Check out the live version of the project here: [https://stephani6g.github.io/] (#)
+## Deployed site
+Check out the live version of the project here: [https://stephani6g.github.io/](#)
+
+## Blog Article
+Read more about this project on my Medium blog: [https://medium.com/@stephaniegloria283/my-journey-from-beginner-to-portfolio-project-80c419978f4b](#)
+
 
 
 
