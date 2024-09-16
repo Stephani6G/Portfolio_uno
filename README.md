@@ -12,11 +12,7 @@ Check out the live version of the project here: [https://stephani6g.github.io/](
 ## Blog Article
 Read more about this project on my Medium blog: [https://medium.com/@stephaniegloria283/my-journey-from-beginner-to-portfolio-project-80c419978f4b](#)
 
-
-
-
-It features two of my favourite things; flowers and complete projects. :) 
- In it there is a landing page: a brief yet descriptive overview of the webpage. 
-
-Link to the portfolio. 
-https://stephani6g.github.io/
+## Author 
+- ** Stephanie Gloria "
+- [https://www.linkedin.com/in/stephanie-g-stephani6g/](#)
+  
