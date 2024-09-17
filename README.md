@@ -1,4 +1,4 @@
-Stephanie Gloria Portfolio
+#Stephanie Gloria Portfolio
 
 This is my portfolio. 
 ![image](https://github.com/user-attachments/assets/78b47b99-87c6-422b-a05a-c8ebf3de4abf)
@@ -13,6 +13,10 @@ Check out the live version of the project here: [https://stephani6g.github.io/](
 Read more about this project on my Medium blog: [https://medium.com/@stephaniegloria283/my-journey-from-beginner-to-portfolio-project-80c419978f4b](#)
 
 ## Author 
-- ** Stephanie Gloria **
+- '** Stephanie Gloria **'
 - [https://www.linkedin.com/in/stephanie-g-stephani6g/](#)
+
+## Licensing
+This project is licensed under the MIT License - see the LICENSE file for details.
+
   
