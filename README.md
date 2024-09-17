@@ -1,4 +1,4 @@
-#Stephanie Gloria Portfolio
+# Stephanie Gloria Portfolio
 
 This is my portfolio. 
 ![image](https://github.com/user-attachments/assets/78b47b99-87c6-422b-a05a-c8ebf3de4abf)
