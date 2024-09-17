@@ -26,6 +26,8 @@ Contributions are welcome! To contribute follow these steps;
   ### Clone the Forked Repository
    Clone the repository to your local machine.
   ### Create a New Branch
+![shepherd-dog-4357790_640](https://github.com/user-attachments/assets/4417581a-5d2d-4d9b-8d38-420d2bbcd7fe)
+
 Navigate to the project directory and create a new branch for your feature or bug fix.
 Give your branch a descriptive name that indicates what you are working on.
    ### Make Changes
@@ -35,11 +37,17 @@ Commit your changes with a clear and descriptive commit message.
    ### Push to Your Forked Repository
 Push the changes to your forked repository on GitHub.
    ### Create a Pull Request
+
 Go to the original repository on GitHub and click on the "New Pull Request" button.
 Select your branch and provide a detailed description of your changes in the pull request.
   ### Wait for Review
+![sad-3700421_640](https://github.com/user-attachments/assets/c5b676e8-2605-4caf-a34c-62fb50438189)
+
 Your pull request will be reviewed. There might be suggestions or requests for changes, so be prepared to make revisions.
   ### Celebrate 
+![dog-3389729_640](https://github.com/user-attachments/assets/9c2b1ec7-c996-4b30-91cf-b84009bcbed8)
+
+
 Once your pull request is merged , you have successfully contribted to this project!
 
 
