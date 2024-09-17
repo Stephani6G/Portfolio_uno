@@ -34,6 +34,9 @@ Contributions are welcome! To contribute follow these steps;
 Navigate to the project directory and create a new branch for your feature or bug fix.
 Give your branch a descriptive name that indicates what you are working on.
    ### Make Changes
+   
+![benjamin-lehman-C1k32M4ii2k-unsplash](https://github.com/user-attachments/assets/327005df-0c9f-4dde-af28-40eb13a42aa8)
+
 Implement your feature or fix the bug. Make sure to follow the project's code style and conventions. If applicable, update the documentation and add tests for your changes.
    ### Commit Your Changes
 ![krista-mangulsone-9gz3wfHr65U-unsplash](https://github.com/user-attachments/assets/1f5889f5-c081-42d1-935e-c35c13a89eb8)
