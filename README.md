@@ -24,6 +24,9 @@ Contributions are welcome! To contribute follow these steps;
   ### Fork the Repository
    Click the "Fork" button at the top right corner of this repository to create a copy of it on your GitHub account.
   ### Clone the Forked Repository
+
+![sydney-moore-AlHOjkPYSlE-unsplash](https://github.com/user-attachments/assets/7dce8ffb-6b6c-4cf9-aabb-16e340fabf28)
+
    Clone the repository to your local machine.
   ### Create a New Branch
 ![shepherd-dog-4357790_640](https://github.com/user-attachments/assets/4417581a-5d2d-4d9b-8d38-420d2bbcd7fe)
@@ -33,8 +36,12 @@ Give your branch a descriptive name that indicates what you are working on.
    ### Make Changes
 Implement your feature or fix the bug. Make sure to follow the project's code style and conventions. If applicable, update the documentation and add tests for your changes.
    ### Commit Your Changes
+![krista-mangulsone-9gz3wfHr65U-unsplash](https://github.com/user-attachments/assets/1f5889f5-c081-42d1-935e-c35c13a89eb8)
+
 Commit your changes with a clear and descriptive commit message.
    ### Push to Your Forked Repository
+![verdian-chua-9BZ0wJ3_E_Q-unsplash](https://github.com/user-attachments/assets/c7005666-7985-4295-8969-26fe92102ed2)
+
 Push the changes to your forked repository on GitHub.
    ### Create a Pull Request
 
