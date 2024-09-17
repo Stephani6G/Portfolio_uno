@@ -13,7 +13,7 @@ Check out the live version of the project here: [https://stephani6g.github.io/](
 Read more about this project on my Medium blog: [https://medium.com/@stephaniegloria283/my-journey-from-beginner-to-portfolio-project-80c419978f4b](#)
 
 ## Author 
-- '** Stephanie Gloria **'
+- **Stephanie Gloria**
 - [https://www.linkedin.com/in/stephanie-g-stephani6g/](#)
 
 ## Licensing
